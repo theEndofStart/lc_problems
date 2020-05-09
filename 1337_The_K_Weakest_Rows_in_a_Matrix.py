@@ -1,3 +1,5 @@
+# not accurate brute force solution, needs modification
+
 def kWeakestRows(m, k):
     d = {}
     i = 0
